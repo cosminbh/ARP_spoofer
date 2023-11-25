@@ -1,1 +1,2 @@
 # ARP_spoofer
+This Python3 script serves as an ARP (Address Resolution Protocol) spoofer, enabling the user to conduct Man-In-the-Middle attacks on a local network. By manipulating ARP responses, the script can replace the IP addresses and MAC addresses of the victim and the router, positioning itself as an intermediary for network traffic. This capability allows the script to intercept and manipulate communication between the victim and the router.
